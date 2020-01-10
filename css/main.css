@@ -1,3 +1,7 @@
+html {
+  color: #fff;
+}
+
 img {
   max-height: 500px;
 }
@@ -5,7 +9,6 @@ img {
 .banner-text {
   max-width: 960px;
   background-color: #495562;
-  color: #fff;
 }
 
 .btn-ghost {
